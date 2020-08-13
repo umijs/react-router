@@ -1,10 +1,13 @@
 {
-  "name": "react-router-dom",
+  "name": "@umijs/react-router-dom",
   "version": "5.2.0",
   "description": "DOM bindings for React Router",
   "repository": "ReactTraining/react-router",
   "license": "MIT",
   "author": "React Training <hello@reacttraining.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "BrowserRouter.js",
     "HashRouter.js",
